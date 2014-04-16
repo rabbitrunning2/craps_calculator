@@ -1,0 +1,74 @@
+10
+
+dir
+78
+svn+ssh://ryane@zwickilton.com:7121/home/dev/craps-calculator/src/main/java/com/ryan/crapscalculator
+svn+ssh://ryane@zwickilton.com:7121/home/dev
+
+
+
+2010-06-06T23:04:41.538742Z
+78
+chrisz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+437965f0-4cd3-4ced-8dac-4686217f9984
+
+CrapsCalculator.java
+file
+
+
+
+
+2010-06-06T23:03:38.000000Z
+53d790093c5377585f20219f872880b0
+2010-06-06T23:04:41.538742Z
+78
+chrisz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+378
+
+controller
+dir
+
+model
+dir
+
+rolls
+dir
+
+ui
+dir
+
